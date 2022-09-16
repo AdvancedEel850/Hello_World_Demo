@@ -4,9 +4,7 @@ This is a basic overview of the Hello World software used to test my IDE. The so
 
 The purpose of the software was to test my IDE and make sure everything was working smoothly.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/ofV1vJZCzfk)
 
 # Development Environment
 
@@ -16,6 +14,5 @@ The programming language I used for this project was python 3.10.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+If you are new to python, the following link may help you learn a bit more about it.
+* [Learnpython.org](https://www.learnpython.org/)
