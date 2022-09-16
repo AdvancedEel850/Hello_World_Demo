@@ -10,9 +10,9 @@ The purpose of the software was to test my IDE and make sure everything was work
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the IDE of Visual Studio Code from microsoft.
 
-{Describe the programming language that you used}
+The programming language I used for this project was python 3.10.
 
 # Useful Websites
 
